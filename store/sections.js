@@ -64,19 +64,19 @@ export const state = () => ({
       images: [
         {
           id: 1,
-          url: require('@/assets/sections/section3/LandingPage1.png'),
+          url: require('@/assets/sections/section3/LandingPages1.png'),
         },
         {
           id: 2,
-          url: require('@/assets/sections/section3/LandingPage2.png'),
+          url: require('@/assets/sections/section3/LandingPages2.png'),
         },
         {
           id: 3,
-          url: require('@/assets/sections/section3/About.png'),
+          url: require('@/assets/sections/section3/AboutPages.png'),
         },
         {
           id: 4,
-          url: require('@/assets/sections/section3/Service.png'),
+          url: require('@/assets/sections/section3/ServicePages.png'),
         },
       ],
     },
