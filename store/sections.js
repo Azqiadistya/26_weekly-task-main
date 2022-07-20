@@ -208,11 +208,11 @@ export const state = () => ({
       images: [
         {
           id: 1,
-          url: require('@/assets/sections/section6/tampilanFile1.PNG'),
+          url: require('@/assets/sections/section6/tampilanFile1.png'),
         },
         {
           id: 2,
-          url: require('@/assets/sections/section6/tampilanFile2.PNG'),
+          url: require('@/assets/sections/section6/tampilanFile2.png'),
         },
       ],
     },
@@ -401,15 +401,15 @@ export const state = () => ({
       images: [
         {
           id: 1,
-          url: require('@/assets/sections/section10/tampilanDesktop.png'),
+          url: require('@/assets/sections/section10/tampilanDesktop1.png'),
         },
         {
           id: 2,
-          url: require('@/assets/sections/section10/tampilanTablet.png'),
+          url: require('@/assets/sections/section10/tampilanTablet1.png'),
         },
         {
           id: 3,
-          url: require('@/assets/sections/section10/tampilanMobile.png'),
+          url: require('@/assets/sections/section10/tampilanMobile1.png'),
         },
       ],
     },
